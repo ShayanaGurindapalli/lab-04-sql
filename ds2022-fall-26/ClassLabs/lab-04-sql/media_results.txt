@@ -1,0 +1,6 @@
+post_id	title	username	year_joined	email
+P03	Doggo	dogsarecute	2010	doggies@example.com
+P07	Work	randomusername	2012	noclue@example.com
+P08	Class	ipadkid	2026	2021born@example.com
+P09	09/27	noideas	2016	original@example.com
+P10	Last post	guy3	2020	guy3@example.com
